@@ -1,0 +1,6 @@
+framework module HYCalendar {
+  umbrella header "HYCalendar-umbrella.h"
+
+  export *
+  module * { export * }
+}

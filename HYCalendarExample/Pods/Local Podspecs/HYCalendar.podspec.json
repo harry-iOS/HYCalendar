@@ -1,0 +1,22 @@
+{
+  "name": "HYCalendar",
+  "version": "1.0.0",
+  "summary": "A Custom calenar library written in swift 3",
+  "description": "The HYCalendar is a completely customizable library that can be used in any iOS app.",
+  "homepage": "https://github.com/harry-iOS/HYCalendar",
+  "license": "MIT",
+  "authors": {
+    "Harish Kumar Yadav": "harry.ios.developer@outlook.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/harry-iOS/HYCalendar.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "HYCalendar",
+    "HYCalendar/**/*.{h,swift}"
+  ]
+}

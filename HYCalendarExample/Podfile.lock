@@ -1,0 +1,21 @@
+PODS:
+  - HYCalendar (1.0.0)
+
+DEPENDENCIES:
+  - HYCalendar (from `https://github.com/harry-iOS/HYCalendar.git`)
+
+EXTERNAL SOURCES:
+  HYCalendar:
+    :git: https://github.com/harry-iOS/HYCalendar.git
+
+CHECKOUT OPTIONS:
+  HYCalendar:
+    :commit: 1c45ef6841f5963f7eb632c3bb236655e8afc704
+    :git: https://github.com/harry-iOS/HYCalendar.git
+
+SPEC CHECKSUMS:
+  HYCalendar: 19c975e9d3a433a93daec06c598448ad578e8886
+
+PODFILE CHECKSUM: 085f44f6b74e6a36af985323abd7f95f97efc832
+
+COCOAPODS: 1.1.1
