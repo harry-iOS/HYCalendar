@@ -26,8 +26,7 @@ s.author             = {"Harish Kumar Yadav" => "harry.ios.developer@outlook.com
 
 # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-# s.platform     = :ios
-# s.platform     = :ios, "9.0"
+ s.platform     = :ios, "9.0"
 
 
 # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
